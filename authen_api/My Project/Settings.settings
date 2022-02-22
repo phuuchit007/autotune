@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="conAuthen" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server =192.168.0.239;Initial Catalog=hos;Persist Security Info=True;User ID=sa;Password=sa</Value>
+    </Setting>
+    <Setting Name="consetting" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
